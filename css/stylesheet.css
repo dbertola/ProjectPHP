@@ -1,0 +1,10 @@
+body{
+    background-image: url('../img/background.jpg');
+}
+h2{
+    text-align: center; padding: 10px;
+}
+
+.logo{
+    margin: auto;
+}
